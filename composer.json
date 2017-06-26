@@ -6,13 +6,13 @@
         "Lthaihv",
         "Book2CRUD"
     ],
-    "homepage": "https://github.com/Lthaihv/Book2CRUD",
+    "homepage": "https://github.com/Lthaihv/book2crud",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
+            "name": "hoang van thai",
+            "email": "louisthaihv@gmail.com",
+            "homepage": "https://github.com/Lthaihv/book2crud",
             "role": "Developer"
         }
     ],
